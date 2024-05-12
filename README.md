@@ -20,8 +20,8 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 ```
 
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by:- A joans Jay Authers
-RegisterNumber: 212221240019
+Developed by:- subikshan.p
+RegisterNumber: 212223240161
 
 
 import numpy as np
@@ -72,7 +72,44 @@ plt.show()
 ```
 
 ## Output:
-![logistic regression using gradient descent](s1.png)
+### Array value of X:
+
+![image](https://github.com/subikshan2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/139841805/04571f0b-63bb-4f34-b7d0-55155c6f741c)
+
+
+### Array value of Y:
+![image](https://github.com/subikshan2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/139841805/aa6b9eb2-d096-42c6-813f-b0af0e787713)
+
+
+### Exam 1-Score graph:
+![image](https://github.com/subikshan2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/139841805/886bc2c1-867d-43a4-b806-263091680403)
+
+
+### Sigmoid function graph:
+![image](https://github.com/subikshan2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/139841805/bf0c020e-c63d-4049-91b4-182aff6ede8f)
+
+### X_Train_grad value:
+![image](https://github.com/subikshan2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/139841805/8f5adc42-6422-4806-a0fd-63087efb4db8)
+
+### Y_Train_grad value:
+![image](https://github.com/subikshan2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/139841805/0120579a-f68d-4eb2-8ab6-781386b5747c)
+
+
+### Print res.X:
+![image](https://github.com/subikshan2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/139841805/b024a2e4-3910-46eb-908d-5dfbc7af05d8)
+
+
+### Decision boundary-gragh for exam score:
+![Screenshot 2024-05-12 112718](https://github.com/subikshan2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/139841805/ced8add3-2616-420a-9a74-0c8142bf3959)
+
+
+### Probability value:
+![image](https://github.com/subikshan2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/139841805/6fe2c242-703e-4b0f-abe6-db8c29b2281a)
+
+
+### Prediction value of mean:
+![image](https://github.com/subikshan2006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/139841805/d79df38e-2c47-4871-b4ad-1ecead5499e5)
+
 
 
 ## Result:
